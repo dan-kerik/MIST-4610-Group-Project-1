@@ -85,7 +85,7 @@ Squads can consist of multiple players, have one manager, and play multiple matc
 
 <img width="536" alt="Screenshot 2024-03-27 at 4 17 35 PM" src="https://github.com/dylanpalenik1/Group-1-Mist-4610-Group-Project-1-2024/assets/164935337/4839d4a6-0692-4d8d-9c49-aef745e1f000">
 
-## Database information:
+## Database Information:
 
 Name of the database: ns_Sp24_61608_Group1
 
